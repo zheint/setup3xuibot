@@ -12,9 +12,9 @@ err()  { echo -e "${RED}[✗]${NC} $1"; }
 info() { echo -e "${CYAN}[i]${NC} $1"; }
 
 echo ""
-echo -e "${CYAN}╔══════════════════════════════════════════╗${NC}"
-echo -e "${CYAN}║   3x-UI Telegram Bot — VPS Installer    ║${NC}"
-echo -e "${CYAN}╚══════════════════════════════════════════╝${NC}"
+echo -e "${CYAN}╔═════════════════════════════════════════════════════╗${NC}"
+echo -e "${CYAN}║   3x-UI Telegram Bot — VPS Installer by Arielvpn    ║${NC}"
+echo -e "${CYAN}╚═════════════════════════════════════════════════════╝${NC}"
 echo ""
 
 # ── Step 1: Bot Name ────────────────────────────────────────
