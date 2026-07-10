@@ -153,9 +153,9 @@ sleep 3
 # ── Verify ──────────────────────────────────────────────────
 if systemctl is-active --quiet "$SVC_NAME"; then
     echo ""
-    echo -e "${GREEN}╔══════════════════════════════════════════╗${NC}"
-    echo -e "${GREEN}║  ✅ Bot installed & running!             ║${NC}"
-    echo -e "${GREEN}╚══════════════════════════════════════════╝${NC}"
+    echo -e "${GREEN}╔════════════════════════════════════════════════════╗${NC}"
+    echo -e "${GREEN}║  ✅ Bot installed & running! Arielvpn myanmar      ║${NC}"
+    echo -e "${GREEN}╚════════════════════════════════════════════════════╝${NC}"
     echo ""
     info "Name:      $BOT_NAME"
     info "Dir:       $BOT_DIR"
